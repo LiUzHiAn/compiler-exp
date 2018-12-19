@@ -1,0 +1,11 @@
+TOKEN-TYPE          TOKEN-VALUE
+-------------------------------------------------
+T_IDENT             int
+T_IDENT             a
+T_EQL               =
+T_NUL               2
+
+Error at line 1  : Unrecognized character
+
+T_NUL               3
+T_SEMICOLON         ;
